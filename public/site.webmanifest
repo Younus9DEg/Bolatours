@@ -1,0 +1,21 @@
+{
+  "name": "Bola Tours | Sri Lanka Travel",
+  "short_name": "Bola Tours",
+  "description": "Galle tours, Mirissa trips, Sri Lanka activities and bike rentals.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffd21f",
+  "icons": [
+    {
+      "src": "/bola-circle-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/bola-circle.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
